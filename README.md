@@ -1,2 +1,2 @@
 # hello-world
-FIrst repository from the Start Guide
+First repository from the Start Guide
